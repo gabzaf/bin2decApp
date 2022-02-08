@@ -22,6 +22,6 @@ while (char_index >= 0 and index_binary < char_length):
     total = total + bin_number
 
     char_index -=1
-    index_binary +=1
+    index_binary +=1      #teste
 
 print(total)
